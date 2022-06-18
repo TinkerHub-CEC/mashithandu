@@ -18,11 +18,11 @@ or
 
 ### Contribute
 
-Add your contribution to the repo by editing the contents of the folder with your campus name(CUCEK).
+Add your contribution to the repo by editing the contents of the folder with your campus name(CEC Chengannur).
 
 - Add your contribution to the repo by making a file with your name, and sweet content about who you are within it. Read the readme for more details.
 
-- After committing and pushing your changes go to your fork and create a pull request to Tinkerhub-CUCEK's repo (the repo from where you initially forked). Make sure you give a good title and description for your pull request.
+- After committing and pushing your changes go to your fork and create a pull request to TinkerHub-CEC's repo (the repo from where you initially forked). Make sure you give a good title and description for your pull request.
 
 - Only one PR from a student will be allowed in the Mashithandu repo.
 
